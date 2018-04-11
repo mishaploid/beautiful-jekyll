@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## Peer Reviewed
+### Peer Reviewed
 **Sarah D. Turner**, Paul L. Maurizio, William Valdar, Brian S. Yandell, and Philipp W. Simon. (2018) 
 Dissecting the genetic architecture of shoot growth in carrot (_Daucus carota_ L.) using a diallel mating design. 
 G3:Genes|Genomes|Genetics [`Link`](http://www.g3journal.org/content/8/2/411) 
