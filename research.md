@@ -1,4 +1,4 @@
-    ---
+---
 title: "Title"
 author: "Author"
 date: "DATE"
