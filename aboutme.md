@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: NSF Postdoc interested in crop domestication & improvement
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hello! I am a researcher broadly interested in all things related to crop domestication, improvement, and genetics. My journey through research began with applied breeding work in potatoes and cowpeas, transitioned into quantitative genetics of carrot for my PhD work, and is now focused on population genetics and domestication of _Brassica oleracea_, a single species which includes diverse crops like kale, cabbage, kohlrabi, Brussels sprouts, broccoli, and cauliflower. 
