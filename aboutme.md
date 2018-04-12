@@ -7,7 +7,7 @@ bigimg: "/img/bgcarrot.png"
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/mustard.png" width="300" alt="Sarah Turner">
-	<figcaption>An outing to the mustard museum</figcaption>
+	<figcaption><i>An outing to the mustard museum</i></figcaption>
 </div>
 </figure>
 
