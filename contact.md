@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-bigimg: "/img/dog.png"
+bigimg: "/img/sprouts.png"
 ---
 
 Please feel free to contact me by e-mail at turnersarahd[at]gmail[dot]com or using the links below. 
