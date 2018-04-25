@@ -3,7 +3,7 @@ layout: page
 title: Research
 bigimg: "/img/bgkaleflower.png"
 ---
-<center><i>“I like the cover," he said. "Don't Panic. It's the first helpful or intelligible thing anybody's said to me all day.”_ ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</i></center>
+<center><i>“I like the cover," he said. "Don't Panic. It's the first helpful or intelligible thing anybody's said to me all day.”</i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>
 
 Understanding genetic diversity in relation to crop improvement
 
