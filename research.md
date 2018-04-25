@@ -6,7 +6,7 @@ subtitle: “I like the cover," he said. "Don't Panic. It's the first helpful or
 bigimg: "/img/bgkaleflower.png"
 ---
 
-Understanding genetic diversity in relation to crop improvement</h3>
+Understanding genetic diversity in relation to crop improvement
 
 
 ## Plant Breeding
