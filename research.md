@@ -1,5 +1,3 @@
-Skip to content
-This repository
 ---
 layout: page
 title: Research
