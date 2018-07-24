@@ -13,6 +13,8 @@ bigimg: "/img/bgcarrot.png"
 
 <a href="/docs/Turner_CV.pdf" target="_blank"><i class="fa fa-file-text fa-lg"></i></a> **Curriculum Vitae**
 
+<center><i>“I like the cover," he said. "Don't Panic. It's the first helpful or intelligible thing anybody's said to me all day.”</i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>
+
 Hello! I am a postdoctoral researcher interested in using statistics, population genetics, and quantitative genetics to answer questions surrounding crop origins and domestication, how various demographic processes influence current crop productivity and quality, and how this information can be used to facilitate future crop improvement and genetic gain. Currently, I am working on an NSF-funded project to study the domestication of _Brassica oleracea_, a single species that includes diverse crops like kale, cabbage, kohlrabi, Brussels sprouts, broccoli, and cauliflower. Not convinced this is awesome? Check out this [article and infographic](http://www.businessinsider.com/broccoli-kale-brussels-sprouts-vegetables-all-the-same-plant-2015-11) that explain why this species is so cool! 
 
 Prior to postdoc life, I completed a **PhD in Plant Breeding & Plant Genetics at the University of Wisconsin-Madison**. My dissertation work focused on understanding the genetic basis (e.g. heritability, type of gene action, quantitative trait loci) of shoot architecture in carrot, which is essential for successful crop establishment and weed management. Since most resources are understandably devoted to studying carrot roots, this was an important first step to breed varieties with improved weed competitive ability.
