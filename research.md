@@ -15,7 +15,7 @@ Broadly, my research interests include anything related to plant breeding and ge
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/carrot_field.png" width="300" alt="" align="left">
-	<figcaption><i>Diallel progenies growing in Holtville, CA.</i></figcaption>
+	<figcaption><i>Carrot diallel progenies growing in Holtville, CA.</i></figcaption>
 </div>
 </figure>
 
@@ -24,12 +24,13 @@ Genetic gain through plant breeding is an essential means to ensure a stable, nu
 
 ## Domestication of Vegetable Crops 
 <p align="justify">
-Crop domestication is a fascinating and important area of study, defined by questions regarding the origins of crops, how they were modified to their present state, and where and when these processes took place. A deeper understanding of these events has direct implications for plant improvement by identifying the extent of genetic diversity, which traits are under quantitative vs. qualitative genetic control, and ultimately which forms of selection are most likely to result in genetic gains. I am currently investigating the demographic history (i.e. changes in population size and population structure) and influence of human selection in <i>Brassica oleracea</i> using genomic data. I love <i>B. oleracea</i> as a system to study domestication as it is a classical example of crop domestication and phenotypic plasticity, with selection acting on different organs to produce crops such as kale, cabbage, kohlrabi, broccoli, cauliflower, and Brussels sprouts. The major questions I hope to answer are: (1) How has selection influenced genome-wide levels of genetic diversity?, (2) Has selection for enrichment of specific plant organs affected metabolite composition, specifically amino acid and glucosinolate content?, and (3) How is this variation controlled at the whole-genome level (i.e. how many genes are contributing and how are they positioned in the genome)?
-
+	
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/brassica_diversity.png" width="300" alt="">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/brassica_diversity.png" width="300" alt="", align="left">
 	<figcaption><i>Examples of B. oleracea morphotypes.</i></figcaption>
 </div>
 </figure>
+
+Crop domestication is a fascinating and important area of study, defined by questions regarding the origins of crops, how they were modified to their present state, and where and when these processes took place. A deeper understanding of these events has direct implications for plant improvement by identifying the extent of genetic diversity, which traits are under quantitative vs. qualitative genetic control, and ultimately which forms of selection are most likely to result in genetic gains. I am currently investigating the demographic history (i.e. changes in population size and population structure) and influence of human selection in <i>Brassica oleracea</i> using genomic data. I love <i>B. oleracea</i> as a system to study domestication as it is a classical example of crop domestication and phenotypic plasticity, with selection acting on different organs to produce crops such as kale, cabbage, kohlrabi, broccoli, cauliflower, and Brussels sprouts. The major questions I hope to answer are: (1) How has selection influenced genome-wide levels of genetic diversity?, (2) Has selection for enrichment of specific plant organs affected metabolite composition, specifically amino acid and glucosinolate content?, and (3) How is this variation controlled at the whole-genome level (i.e. how many genes are contributing and how are they positioned in the genome)?
 </p>
