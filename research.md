@@ -3,17 +3,11 @@ layout: page
 title: Research
 bigimg: "/img/bgkaleflower.png"
 ---
-<center><i>“I like the cover," he said. "Don't Panic. It's the first helpful or intelligible thing anybody's said to me all day.”</i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>
 
-Understanding genetic diversity in relation to crop improvement
+## Genetics of Complex Traits
+Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement. During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to investigate the genetic architecture of shoot growth in carrots, which is important for successful crop establishment. As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in <i>Brassica oleracea</i>, which, depending on who you ask, contains up to 14(!) distinct morphotypes. This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits. 
 
-## Plant Breeding
-Sustainable improvement of crops for nutritonal value, quality, & yield  
-
-## Quantitative Genetics
-Understanding inheritance patterns for complex phenotypes & variation across environments  
-
-## Population Genetics
+## Domestication of Vegetable Crops 
 Identifying genomic signatures related to domestication & improvement of food crops
 
 ## Image-based Phenotyping
