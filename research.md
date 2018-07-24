@@ -15,8 +15,8 @@ Genetic gain through plant breeding is an essential means to ensure a stable, nu
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/mustard.png" width="300" alt="">
-	<figcaption><i>Diallel variance projection for shoot and root traits in carrot.</i></figcaption>
+	<img src="/img/carrot_field.png" width="300" alt="">
+	<figcaption><i>Diallel progenies growing in Holtville, CA.</i></figcaption>
 </div>
 </figure>
 </p>
