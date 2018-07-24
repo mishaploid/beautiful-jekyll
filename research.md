@@ -4,7 +4,7 @@ title: Research
 bigimg: "/img/bgkaleflower.png"
 ---
 
-<center><i>“Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the Universe than we do now.” </i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>
+<center><i>“Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the Universe than we do now.” </i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>  
 
 Broadly, my research interests include anything related to plant breeding and genetics. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.
 
