@@ -4,9 +4,10 @@ title: Research
 bigimg: "/img/bgkaleflower.png"
 ---
 
-<center><i>“Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the Universe than we do now.” </i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>  
+<center><i>“Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the Universe than we do now.” </i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>   
 
-Broadly, my research interests include anything related to plant breeding and genetics. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.
+<p align="justified">
+Broadly, my research interests include anything related to plant breeding and genetics. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.</p>
 
 ## Genetics of Complex Traits
 Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement. During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment. As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in <i>Brassica oleracea</i>, which, depending on who you ask, contains up to 14(!) distinct morphotypes. This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits. 
