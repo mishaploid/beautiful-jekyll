@@ -11,7 +11,6 @@ Broadly, my research interests include anything related to plant breeding and ge
 
 ## Genetics of Complex Traits
 <p align="justify">
-Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement. During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment. As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in <i>Brassica oleracea</i>, which, depending on who you ask, contains up to 14(!) distinct morphotypes. This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
@@ -19,6 +18,8 @@ Genetic gain through plant breeding is an essential means to ensure a stable, nu
 	<figcaption><i>Diallel progenies growing in Holtville, CA.</i></figcaption>
 </div>
 </figure>
+
+Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement. During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment. As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in <i>Brassica oleracea</i>, which, depending on who you ask, contains up to 14(!) distinct morphotypes. This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
 </p>
 
 ## Domestication of Vegetable Crops 
