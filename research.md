@@ -27,7 +27,7 @@ Genetic gain through plant breeding is an essential means to ensure a stable, nu
 	
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/brassica_diversity.png" width="300" alt="", align="right">
+	<img src="/img/brassica_diversity.png" width="300" alt="" align="right">
 	<figcaption><i>Examples of B. oleracea morphotypes.</i></figcaption>
 </div>
 </figure>
