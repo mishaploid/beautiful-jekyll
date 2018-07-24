@@ -15,7 +15,7 @@ Broadly, my research interests include anything related to plant breeding and ge
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/carrot_field.png" width="300" alt="" align="left">
-	<figcaption><i>Carrot diallel progenies growing in Holtville, CA.</i></figcaption>
+	<figcaption><i>Carrot diallel progenies.</i></figcaption>
 </div>
 </figure>
 
