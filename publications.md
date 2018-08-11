@@ -10,6 +10,8 @@ Dissecting the genetic architecture of shoot growth in carrot (_Daucus carota_ L
 _G3:Genes|Genomes|Genetics_ [`Link`](http://www.g3journal.org/content/8/2/411) 
 
 ### Preprints
+**Sarah D Turner**, Shelby L Ellison, Douglas A Senalik, Philipp W Simon, Edgar P Spalding, and Nathan D Miller (2018) An automated, high-throughput image analysis pipeline enables genetic studies of shoot and root morphology in carrot (_Daucus carota_ L.). _bioRxiv_ [`Link`](https://www.biorxiv.org/content/early/2018/08/04/384974)
+
 Kevin A Bird, **Sarah D Turner**, Timothy M Beissinger, and Ruthie Angelovici (2018) Subset-based genomic prediction provides insights into the genetic architecture of free amino acid levels in dry _Arabidopsis thaliana_ seeds. _bioRxiv_ [`Link`](https://www.biorxiv.org/content/early/2018/02/26/272047)  
 
 ### Book Chapter
