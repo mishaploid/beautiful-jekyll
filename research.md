@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-bigimg: "/img/bgkaleflower.png"
+bigimg: "/img/romanesco.jpg"
 ---
 
 <center><i>“Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the Universe than we do now.” </i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>   
