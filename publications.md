@@ -4,6 +4,10 @@ title: Publications
 bigimg: "/img/bgdiallel.png"
 ---
 
+### Submitted/in Review
+A Yobi, C Bagaza, A Batushansky, V Shrestha, M Emery, S Holden, SD Turner-Hissong, ND Miller, and R Angelovici (2019) Uncovering the complex response of free and bound amino acids to water stress during seed setting. _In review_
+
+
 ### Peer Reviewed
 **SD Turner**, SL Ellison, DA Senalik, PW Simon, EP Spalding, and ND Miller (2018) An automated image analysis pipeline enables genetic studies of shoot and root morphology in carrot (_Daucus carota_ L.). _Front Plant Sci_ [`Link`](https://www.frontiersin.org/articles/10.3389/fpls.2018.01703/full) [`Preprint`](https://www.biorxiv.org/content/early/2018/08/04/384974)
 
