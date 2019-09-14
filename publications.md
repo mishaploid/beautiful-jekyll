@@ -5,6 +5,8 @@ bigimg: "/img/bgdiallel.png"
 ---
 
 ### Submitted/in Review
+**SD Turner-Hissong**, ME Mabry, TM Beissinger, J Ross-Ibarra, and JC Pires (2019) Evolutionary insights into plant breeding. _Submitted_  
+
 A Yobi, C Bagaza, A Batushansky, V Shrestha, M Emery, S Holden, **SD Turner-Hissong**, ND Miller, and R Angelovici (2019) Uncovering the complex response of free and bound amino acids to water stress during seed setting. _In review_
 
 
