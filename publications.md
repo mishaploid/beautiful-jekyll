@@ -7,7 +7,7 @@ bigimg: "/img/bgdiallel.png"
 ### Preprints
 **SD Turner-Hissong**, ME Mabry, TM Beissinger, J Ross-Ibarra, and JC Pires (2019) Evolutionary insights into plant breeding. _In review_  [`Preprint`](https://agrixiv.org/akdt8)  
 
-**SD Turner-Hissong**, KA Bird, AE Lipka, EG King, TM Beissinger, and R Angelovici (2018) Genomic prediction informed by biological processes expands our understanding of the genetic architecture underlying free amino acid traits in dry _Arabidopsis_ seeds. _bioRxiv_ 
+**SD Turner-Hissong**, KA Bird, AE Lipka, EG King, TM Beissinger, and R Angelovici (2018) Genomic prediction informed by biological processes expands our understanding of the genetic architecture underlying free amino acid traits in dry _Arabidopsis_ seeds. _In review_ 
 [`Preprint`](https://www.biorxiv.org/content/early/2018/02/26/272047)  
 
 ### Submitted/In Review
