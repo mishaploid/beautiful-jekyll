@@ -12,7 +12,7 @@ bigimg: "/img/bgdiallel.png"
 
 ### Submitted/In Review
 
-A Yobi, C Bagaza, A Batushansky, V Shrestha, M Emery, S Holden, **SD Turner-Hissong**, ND Miller, and R Angelovici (2019) Uncovering the complex response of free and bound amino acids to water stress during seed setting. _In review_
+A Yobi, C Bagaza, A Batushansky, V Shrestha, M Emery, S Holden, **SD Turner-Hissong**, ND Miller, and R Angelovici (2019) Uncovering the complex response of free and bound amino acids to water stress during seed setting. _Accepted_
 
 
 ### Peer Reviewed
