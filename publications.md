@@ -10,10 +10,6 @@ bigimg: "/img/bgdiallel.png"
 **SD Turner-Hissong**, KA Bird, AE Lipka, EG King, TM Beissinger, and R Angelovici (2018) Genomic prediction informed by biological processes expands our understanding of the genetic architecture underlying free amino acid traits in dry _Arabidopsis_ seeds. _In review_ 
 [`Preprint`](https://www.biorxiv.org/content/early/2018/02/26/272047)  
 
-### Submitted/In Review
-
-
-
 
 ### Peer Reviewed
 A Yobi, C Bagaza, A Batushansky, V Shrestha, ML Emery, S Holden, **SD Turner-Hissong**, ND Miller, TP Mawhinney, and R Angelovici (2019) Uncovering the complex response of free and bound amino acids to water stress during seed setting. _The Plant Journal_ [`Link`](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14668)
