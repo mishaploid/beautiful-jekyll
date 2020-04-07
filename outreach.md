@@ -3,6 +3,14 @@ Finally setting up an outreach page! Stay tuned for updates, but for now posting
 
 I really like this style of outreach for events with large booths and/or displays. The cards can be laid out and allow adults and children to go through the questions at their own pace (especially if it's crowded and volunteers are busy). They are also cheap to make (printed on regular paper, mounted on colored cardstock, and laminated). Attaching to some sort of jumpring or string is helpful to keep them all together. 
 
+## Carrots 
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/carrot_outreach.png" width="300" alt="carrot outreach">
+	<figcaption><i>Carrot flashcards on display at UW-Madison's Science Saturday</i></figcaption>
+</div>
+</figure>
+
 ## Acknowledgements
 These are a compilation of contributions from many amazing researchers. Many of the images are taken from google and, although I try to use images in the public domain, please do not hesitate to let me know if you see an image that you would like credited or removed. 
 
