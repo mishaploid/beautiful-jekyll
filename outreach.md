@@ -4,14 +4,14 @@ title: Outreach
 bigimg: "/img/box_o_carrots.jpg"
 ---
 
-Finally setting up an outreach page! Stay tuned for updates, but for now posting some outreach flashcards on carrots and corn. Questions are a mix of different difficulties, and mostly designed to learn fun facts about the history, production, and current uses of each crop. Please feel free to send suggestions for new questions and I will do my best to incorporate them :) 
-
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/carrot_outreach.png" width="300" alt="carrot outreach">
 	<figcaption><i>Carrot flashcards on display</i></figcaption>
 </div>
 </figure>
+
+Finally setting up an outreach page! Stay tuned for updates, but for now posting some outreach flashcards on carrots and corn. Questions are a mix of different difficulties, and mostly designed to learn fun facts about the history, production, and current uses of each crop. Please feel free to send suggestions for new questions and I will do my best to incorporate them :) 
 
 [Click here for a pdf of the carrot flashcards](docs/carrot_flashcards.pdf)  
 
