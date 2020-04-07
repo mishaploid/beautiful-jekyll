@@ -13,15 +13,16 @@ I really like this style of outreach for events with large booths and/or display
 [Click here for a pdf version of the maize flashcards](docs/maize_flashcards.pdf)
 
 <figure>
-<div style="position:absolute; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/carrot_outreach.png" width="600" alt="carrot outreach">
 	<figcaption><i>Carrot flashcards on display at UW-Madison's Science Saturday</i></figcaption>
 </div>
 </figure>
 
+
 <figure>
-<div style="float: center; padding-bottom: 25px">
-	<img src="/img/maize_outreach.png" width="300" alt="carrot outreach">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/maize_outreach.png" width="300" alt="maize outreach">
 	<figcaption><i>Pondering the history of maize at the Missouri Maize Center booth</i></figcaption>
 </div>
 </figure>
