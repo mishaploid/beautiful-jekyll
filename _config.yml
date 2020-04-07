@@ -26,6 +26,7 @@ navbar-links:
   About: "aboutme"
   Research: "research"
   Publications: "publications"
+  Outreach: "outreach"
   Contact: "contact"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
