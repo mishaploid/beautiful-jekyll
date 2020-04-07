@@ -22,7 +22,7 @@ I really like this style of outreach for events with large booths and/or display
 
 
 
-## Acknowledgements
+## Acknowledgments
 These are a compilation of contributions from many amazing researchers. Many of the images are taken from google and, although I try to use images in the public domain, please do not hesitate to let me know if you see an image that you would like credited or removed. 
 
 **Carrot flashcards:**
