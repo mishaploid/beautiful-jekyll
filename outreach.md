@@ -9,7 +9,7 @@ Finally setting up an outreach page! Stay tuned for updates, but for now posting
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/carrot_outreach.png" width="300" alt="carrot outreach">
-	<figcaption><i>Carrot flashcards at UW-Madison's Science Saturday</i></figcaption>
+	<figcaption><i>Carrot flashcards on display</i></figcaption>
 </div>
 </figure>
 
