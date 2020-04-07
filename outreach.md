@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outreach
-bigimg: "/img/box-o-carrots.jpg"
+bigimg: "/img/box_o_carrots.jpg"
 ---
 
 Finally setting up an outreach page! Stay tuned for updates, but for now posting some outreach flashcards on carrots and corn. Questions are a mix of different difficulties, and mostly designed to learn fun facts about the history, production, and current uses of each crop. Please feel free to send suggestions for new questions and I will do my best to incorporate them :) 
