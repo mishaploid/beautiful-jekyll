@@ -13,7 +13,7 @@ Finally setting up an outreach page! Stay tuned for updates, but for now posting
 </div>
 </figure>
 
-I really like this style of outreach for events with large booths and/or displays. The cards can be laid out and allow adults and children to go through the questions at their own pace (especially if it's crowded and volunteers are busy). They are also cheap to make (printed on regular paper, mounted on colored cardstock, and laminated). Attaching to some sort of jumpring or string is helpful to keep them all together. 
+I really like this style of outreach for events with large booths and/or displays. Having the cards accessible allows adults and children to go through the questions at their own pace (especially if it's crowded and volunteers are busy). They are also cheap to make (printed on regular paper, mounted on colored cardstock, and laminated). Attaching to some sort of jumpring or string is helpful to keep them all together. 
 
 [Click here for a pdf of the carrot flashcards](docs/carrot_flashcards.pdf)  
 
