@@ -8,13 +8,13 @@ I really like this style of outreach for events with large booths and/or display
 
 <figure>
 <div style="float: center; padding-bottom: 25px">
-	<img src="/img/carrot_outreach.png" width="300" alt="carrot outreach">
+	<img src="/img/carrot_outreach.png" width="600" alt="carrot outreach">
 	<figcaption><i>Carrot flashcards on display at UW-Madison's Science Saturday</i></figcaption>
 </div>
 </figure>
 
 ## Maize cards
-Click here for a pdf version!
+[Click here for a pdf version!](docs/maize_flashcards.pdf)
 
 <figure>
 <div style="float: center; padding-bottom: 25px">
