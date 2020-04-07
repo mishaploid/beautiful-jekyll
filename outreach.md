@@ -12,7 +12,7 @@ I really like this style of outreach for events with large booths and/or display
 [Click here for a pdf version of the maize flashcards](docs/maize_flashcards.pdf)
 
 <figure>
-<div style="padding-bottom: 25px">
+<div style="position:absolute; padding-bottom: 25px">
 	<img src="/img/carrot_outreach.png" width="600" alt="carrot outreach">
 	<figcaption><i>Carrot flashcards on display at UW-Madison's Science Saturday</i></figcaption>
 </div>
