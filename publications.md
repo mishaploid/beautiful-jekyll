@@ -12,7 +12,8 @@ ME Mabry, **SD Turner-Hissong**, EY Gallagher, AC McAlvay, H An, PP Edger, JD Mo
 ### Peer Reviewed
 
 
-**SD Turner-Hissong**, KA Bird, AE Lipka, EG King, TM Beissinger, and R Angelovici (2018) Genomic prediction informed by biological processes expands our understanding of the genetic architecture underlying free amino acid traits in dry _Arabidopsis_ seeds. _G3:Genes|Genomes|Genetics_ [`Link`](https://www.g3journal.org/content/10/11/4227) [`Preprint`](https://www.biorxiv.org/content/early/2018/02/26/272047) 
+**SD Turner-Hissong**, KA Bird, AE Lipka, EG King, TM Beissinger, and R Angelovici (2018) Genomic prediction informed by biological processes expands our understanding of the genetic architecture underlying free amino acid traits in dry _Arabidopsis_ seeds. _G3:Genes|Genomes|Genetics_ 
+[`Link`](https://www.g3journal.org/content/10/11/4227) [`Preprint`](https://www.biorxiv.org/content/early/2018/02/26/272047) 
 
 **SD Turner-Hissong**, ME Mabry, TM Beissinger, J Ross-Ibarra, and JC Pires (2019) Evolutionary insights into plant breeding. _Curr Opin Plant Biol_ [`Link`](https://www.sciencedirect.com/science/article/pii/S1369526620300339) [`Preprint`](https://agrixiv.org/akdt8)  
 
